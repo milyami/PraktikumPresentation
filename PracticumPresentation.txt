@@ -1,3 +1,8 @@
 The topic of presentation
 
 Names of presentors
+
+Outline of our presentation:
+
+- subtopic 1
+- subtopic 2
